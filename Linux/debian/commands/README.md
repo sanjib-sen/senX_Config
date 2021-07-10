@@ -2,8 +2,8 @@
 
 ## Update
 
-> This will update, upgrade the packages and remove the packages which are no longer needed
+> This will update, upgrade the packages and remove the dependencies which are no longer needed
 
-```bash
+``` bash
 sudo apt update && sudo apt upgrade && sudo apt autoremove
 ```
