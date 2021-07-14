@@ -31,6 +31,7 @@
 - Pop_Shop shows 'update available' even when there is no update available.
 - Does not update a lot of apps: VSCode, Slack
 - Doesn't have "After closing the lid" settings.
+- Pop Shop is trash
 
 ### Rating
 

@@ -1,0 +1,28 @@
+# My favourite Apps for Linux:
+
+- IDE: VSCode
+- Mail: Geary
+- Calendar: GNOME-Calendar
+- Account: GNOME Online Account
+- Camera: Cheese
+- Photo Management: Shotwell
+- Media Player: VLC, MPV
+- Contacts: GNOME Contacts
+- Paint: KolourPaint
+- Files: Distro Default
+- VPN: ProtonVPN
+- Browser: Brave, Firefox
+- Bangla Keyboard: OpenBangla
+- Sensor: Psensor
+- Torrent Client: qbittorent
+- Disk Management: GNOME Disks, GParted
+- Disk Usage: GNOME Disk Usage Analyzer
+- ISO Creator: Balena Etcher (Linux), WoeUSB (Winodws)
+- Office: LibreOffice
+- Text Editor: Distro Default
+- Terminal Emulator: Distro Default
+- Calculator: Distro Default
+- System Resources: Distro Default
+- PDF Reader: Okular
+- Download Manager: uGet
+- Clipboard: CopyQ
