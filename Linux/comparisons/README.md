@@ -5,7 +5,7 @@
 ## Good Things
 
 - Gnome Account - works perfect and great.
-- Stable -> 4.5/5
+- Stable
 - App sizes are lighter in size unless it is from flathub
 
 ## Bad Things
@@ -19,7 +19,7 @@
 
 ### Good Things
 
-- Kind of stable -> 4/5
+- Kind of stable
 - Bluetooth Works perfectly
 - Does not crash/lag/hang like endeavourOS-xfce
 - OpenBangla works perfectly
